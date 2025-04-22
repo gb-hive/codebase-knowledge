@@ -7,7 +7,7 @@
 # todo.cursor
 
 [x] Create GitHub repository via `gh repo create`
-[ ] Initialize README.md and LICENSE
+[x] Initialize README.md and LICENSE
 [ ] Add Tutorial‑Codebase‑Knowledge submodule
 [ ] Install toolkit dependencies
 [ ] Pin submodule deps in main requirements.txt
