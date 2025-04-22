@@ -1,0 +1,20 @@
+---
+
+**2. `todo.cursor`**  
+*(A simple TODO list for Cursor to mark progress.)*
+
+```ini
+# todo.cursor
+
+[x] Create GitHub repository via `gh repo create`
+[ ] Initialize README.md and LICENSE
+[ ] Add Tutorial‑Codebase‑Knowledge submodule
+[ ] Install toolkit dependencies
+[ ] Pin submodule deps in main requirements.txt
+[ ] Copy and configure .env with LLM API keys
+[ ] Create and commit scripts/generate_tutorial.py
+[ ] Make wrapper script executable
+[ ] Create GitHub Actions workflow file
+[ ] Commit CI/CD workflow
+[ ] Run wrapper script locally to verify output
+[ ] Preview generated docs on localhost
