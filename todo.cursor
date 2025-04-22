@@ -15,6 +15,6 @@
 [x] Create and commit scripts/generate_tutorial.py
 [x] Make wrapper script executable
 [x] Create GitHub Actions workflow file
-[ ] Commit CI/CD workflow
+[x] Commit CI/CD workflow
 [ ] Run wrapper script locally to verify output
 [ ] Preview generated docs on localhost
