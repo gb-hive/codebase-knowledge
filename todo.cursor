@@ -11,7 +11,7 @@
 [x] Add Tutorial‑Codebase‑Knowledge submodule
 [x] Install toolkit dependencies
 [x] Pin submodule deps in main requirements.txt
-[ ] Copy and configure .env with LLM API keys
+[x] Copy and configure .env with LLM API keys
 [ ] Create and commit scripts/generate_tutorial.py
 [ ] Make wrapper script executable
 [ ] Create GitHub Actions workflow file
