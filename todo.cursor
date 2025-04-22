@@ -16,5 +16,5 @@
 [x] Make wrapper script executable
 [x] Create GitHub Actions workflow file
 [x] Commit CI/CD workflow
-[ ] Run wrapper script locally to verify output
-[ ] Preview generated docs on localhost
+[!] Run wrapper script locally to verify output (blocked: needs API keys)
+[!] Preview generated docs on localhost (blocked: needs API keys)
