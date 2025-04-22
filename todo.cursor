@@ -9,7 +9,7 @@
 [x] Create GitHub repository via `gh repo create`
 [x] Initialize README.md and LICENSE
 [x] Add Tutorial‑Codebase‑Knowledge submodule
-[ ] Install toolkit dependencies
+[x] Install toolkit dependencies
 [ ] Pin submodule deps in main requirements.txt
 [ ] Copy and configure .env with LLM API keys
 [ ] Create and commit scripts/generate_tutorial.py
