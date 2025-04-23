@@ -24,6 +24,10 @@ wheels/
 .installed.cfg
 *.egg
 
+# Virtual Environment
+venv/
+ENV/
+
 # Environment variables
 .env
 
@@ -33,6 +37,18 @@ wheels/
 *.swp
 *.swo
 
+# Project specific
+todo.cursor
+.env
+logs/
+llm_cache.json
+
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
